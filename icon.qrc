@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Icon/Icon.png</file>
+        <file>Icon/next.png</file>
+        <file>Icon/playorpause.png</file>
+        <file>Icon/pre.png</file>
+        <file>Icon/exit.png</file>
+        <file>Icon/aboutLogo.png</file>
+    </qresource>
+    <qresource prefix="/file">
+        <file>license.txt</file>
+    </qresource>
+</RCC>
