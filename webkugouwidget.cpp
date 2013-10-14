@@ -106,7 +106,7 @@ void WebKugouWidget::showAboutDlg()
 {
     AboutDialog aboutdlg;
     aboutdlg.setLogo(":/Image/Icon/aboutLogo.png");
-    aboutdlg.setInfo("<table border=\"0\"><tr><td width=270 valign=\"middle\" ><b>WebKugou客户端 v1.0</b></td><td><a href=\"https://github.com/pansinm/QSPlayer\">查看源代码</a></td></tr><tr height=\"22\"><td width=300 valign=\"middle\">by X_PAN</td><td>pansinm@163.com</td></tr></table>");
+    aboutdlg.setInfo("<table border=\"0\"><tr><td width=270 valign=\"middle\" ><b>WebKugou客户端 v1.0</b></td><td><a href=\"https://github.com/pansinm/WebKugou/\">查看源代码</a></td></tr><tr height=\"22\"><td width=300 valign=\"middle\">by X_PAN</td><td>pansinm@163.com</td></tr></table>");
     aboutdlg.setText(":/file/license.txt",true);
     aboutdlg.setWindowTitle(tr("关于WebKugou客户端"));
     aboutdlg.exec();
